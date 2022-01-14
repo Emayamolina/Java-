@@ -1,4 +1,4 @@
-# Java- Netflix 
+# Netflix- applet in java 
 Java project dedicated to imitating the rental of Netflix accounts. 
 
 Spanish version 
